@@ -2,7 +2,7 @@
 
 Tech stack: ReactJS, React Router, Redux Toolkit, Formik, Yup, RippleUI, Tailwind, Typescript
 
-REST requests mocked with localStorage in a repository.
-A few example unit tests written for EventForm.tsx.
+REST requests have been mocked with localStorage in a repository.
+A few example unit tests have been written for the EventForm component.
 
 Live preview: https://bars99.github.io/alan-systems
