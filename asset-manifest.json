@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/alan-systems/static/css/main.9f50ff73.css",
+    "main.js": "/alan-systems/static/js/main.3a57e614.js",
+    "static/js/453.ed3810f9.chunk.js": "/alan-systems/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/alan-systems/index.html",
+    "main.9f50ff73.css.map": "/alan-systems/static/css/main.9f50ff73.css.map",
+    "main.3a57e614.js.map": "/alan-systems/static/js/main.3a57e614.js.map",
+    "453.ed3810f9.chunk.js.map": "/alan-systems/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f50ff73.css",
+    "static/js/main.3a57e614.js"
+  ]
+}
